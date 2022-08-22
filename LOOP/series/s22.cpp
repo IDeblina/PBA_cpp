@@ -9,6 +9,7 @@ main()
 	for(i=1; i<=j; i++){
 		if(j%i==0)
 		c++;
+		
 	}
 	if(c==2)
 		cout<<j*j<<"\n";
